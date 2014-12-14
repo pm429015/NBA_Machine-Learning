@@ -13,9 +13,9 @@ features = nbaTrain[:,1:]
 
 # Training phase
 classifier = LDA(n_components=2)
-
+# Testing Phase
 result = classifier.fit(features, label).predict(test)
-
+# Save the result
 savetxt("../NBA2012-15/NBA_forecast_WinLose.csv", result,delimiter=",", fmt='%1.1f',)
 
 # train = nbaTrain
