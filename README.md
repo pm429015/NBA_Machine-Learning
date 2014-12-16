@@ -3,7 +3,7 @@
 
 ## Motivation
 
-I spent few days creating  a machine learning model to make predictions of  2014-2015 NBA season. I also tried different machine learning algorithms to see which method works better with my problem. By the end of this exercise, the modal had already exceeded approx  overall 75% accuracy (better than random guessing).
+I spent few days creating  a machine learning model to make predictions of  2014-2015 NBA season. I also tried different machine learning algorithms to see which method works better with my problem. By the end of this exercise, the model had already exceeded approx  overall 70% accuracy (better than random guessing).
 
 ## Installation
 1. Python 2.7
